@@ -17,13 +17,19 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=) 
+
+![Google Dataflow](https://img.shields.io/badge/Google%20Dataflow-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://a11ybadges.com/badge?logo=apachespark) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 
 ![Docker](https://a11ybadges.com/badge?logo=docker) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-![Jenkins](https://a11ybadges.com/badge?logo=jenkins) ![JFrog](https://a11ybadges.com/badge?logo=jfrog)
+![Travis CI](https://img.shields.io/static/v1?style=for-the-badge&message=Travis+CI&color=3EAAAF&logo=Travis+CI&logoColor=FFFFFF&label=) ![Jenkins](https://a11ybadges.com/badge?logo=jenkins) ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+ ![JFrog](https://a11ybadges.com/badge?logo=jfrog) 
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-%234285F4.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/Bigquery-%235264F3.svg?style=for-the-badge&logo=bigquery&logoColor=white)
+
+
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ![Grafana](https://a11ybadges.com/badge?logo=grafana)
 
