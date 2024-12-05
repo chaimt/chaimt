@@ -1,3 +1,4 @@
+- 🔭 I’m currently working on building LLM Applications
 - 🔭 I’m currently working on building data platforms
 - 🌱 I’m currently learning DBT and associated technologies
 - 💬 Ask me about anything
