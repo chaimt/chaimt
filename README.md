@@ -9,7 +9,7 @@
 # 💻Skills
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Delphi](https://a11ybadges.com/badge?logo=delphi)
 
-![LLM](https://img.shields.io/badge/LLM-Enabled-brightgreen) ! [Langchain](https://img.shields.io/badge/LangChain-blue)
+![LLM](https://img.shields.io/badge/LLM-brightgreen) ![Langchain](https://img.shields.io/badge/LangChain-blue)
   
 
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
