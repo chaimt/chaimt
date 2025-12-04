@@ -1,7 +1,10 @@
-- 🔭 I’m currently working on building LLM Applications
-- 🔭 I’m currently working on building data platforms
-- 🌱 I’m currently learning DBT and associated technologies
-- 💬 Ask me about anything
+## 👋 About Me
+
+I am a Group Leader and Business Partner at Tikal Knowledge, mentoring colleagues and acting as a Tech Lead for clients to help them achieve their technical and business objectives. With 20 years of experience and collaboration with diverse clients, I bring a wealth of expertise and a passion for tackling new challenges in distributed applications and big data, including LLM applications.
+
+- 🔭 I'm currently working on building LLM Applications and data platforms
+- 🌱 I'm currently learning DBT and associated technologies
+- 💬 Ask me about distributed systems, big data, LLM applications, or data platforms
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer](https://www.linkedin.com/in/chaim-turkel-8545542/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer](https://medium.com/@chaimturkel)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://medium.com/@DevelopingGamer](https://twitter.com/chaimt)) 
@@ -40,8 +43,10 @@
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=chaimt&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chaimt&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaimt&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# 📊 GitHub Stats
+![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
