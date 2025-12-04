@@ -39,3 +39,5 @@ I am a Group Leader and Business Partner at Tikal Knowledge, mentoring colleague
 ![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+# 📈 Infographics
+![Infographics](./Infographics.png)
