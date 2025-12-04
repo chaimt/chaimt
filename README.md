@@ -25,7 +25,7 @@ I am a Group Leader and Business Partner at Tikal Knowledge, mentoring colleague
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) ![Quarkus](https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Temporal](https://img.shields.io/static/v1?style=for-the-badge&message=Temporal&color=444CE7&logo=Temporal&logoColor=FFFFFF&label=) ![Dagster](https://img.shields.io/static/v1?style=for-the-badge&message=Dagster&color=000000&logo=Dagster&logoColor=FFFFFF&label=) ![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=) 
 
 ![Google Dataflow](https://img.shields.io/badge/Google%20Dataflow-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 
@@ -37,7 +37,7 @@ I am a Group Leader and Business Partner at Tikal Knowledge, mentoring colleague
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)  ![Snowflake](https://img.shields.io/badge/Snowflake-%234285F4.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![BigQuery](https://img.shields.io/badge/Bigquery-%235264F3.svg?style=for-the-badge&logo=bigquery&logoColor=white)
 
 
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Data Mesh](https://img.shields.io/badge/Data%20Mesh-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Self-Serving Platform](https://img.shields.io/badge/Self--Serving%20Platform-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white) ![Data Catalog](https://img.shields.io/badge/Data%20Catalog-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
