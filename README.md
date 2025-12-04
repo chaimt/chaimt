@@ -33,11 +33,18 @@ I am a Group Leader and Business Partner at Tikal Knowledge, mentoring colleague
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  
 # 📊 GitHub Stats
-![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/chaimt/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/chaimt/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+    </td>
+  </tr>
+</table>
 
 # 📈 Infographics
 ![Infographics](./Infographics.png)
